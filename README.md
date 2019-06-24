@@ -2,8 +2,8 @@
 
 # 使用指南
 ## 所需软件
-![avatar](https://s2.ax1x.com/2019/06/24/Zk8o5V.png)
-- **VirtualXposed**：提供虚拟的app运行环境 下载地址:[Xposed下载](https://github-production-release-asset-2e65be.s3.amazonaws.com/112717963/19ca6300-57b2-11e9-99a2-9f539fe6c828?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20190624%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20190624T023209Z&X-Amz-Expires=300&X-Amz-Signature=e8032d3c4ee47acb45cfd14f9edfd4790d194945a794514cf20bbfe7da973cb9&X-Amz-SignedHeaders=host&actor_id=12151191&response-content-disposition=attachment%3B%20filename%3DVirtualXposed_AOSP_0.17.3.apk&response-content-type=application%2Fvnd.android.package-archive)
+![avatar](https://camo.githubusercontent.com/e40a361a75bcd9db224b24040319006bc5e6514b/68747470733a2f2f73322e617831782e636f6d2f323031392f30362f32342f5a6b386f35562e706e67)
+- **VirtualXposed**：提供虚拟的app运行环境 下载地址:[Xposed下载](https://github.com/android-hacker/VirtualXposed/releases/download/v0.17.3/VirtualXposed_AOSP_0.17.3.apk)
 - 破解程序：
 - 直播软件：
 ## 步骤
